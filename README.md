@@ -1,13 +1,25 @@
 <div style="width: 100%;">
  <div style="display: flex;">
    <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 1 50%;">
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&hide=stars&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&hide=stars&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+    <picture>
+     <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&hide=stars&count_private=true&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+     />
+     <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&hide=stars&count_private=true&show_icons=true"
+      media="(prefers-color-scheme: light) (prefers-color-scheme: no-preference)"
+     />
+<img src="https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&show_icons=true" />
+
+<!-- [![Anurag's GitHub stats-Dark]()](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&hide=stars&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) -->
+    </picture>
    </a>
-   <a href="https://github.com/anuraghazra/convoychat" style="flex: 0 1 50%;">
+<!--    <a href="https://github.com/anuraghazra/convoychat" style="flex: 0 1 50%;">
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-rac2&layout=compact&hide=vue,php&&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats&theme=dark#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-rac2&layout=compact&hide=vue,php&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-   </a>
+   </a> -->
  </div>
 </div>
 
