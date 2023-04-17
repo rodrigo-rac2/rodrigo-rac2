@@ -1,17 +1,12 @@
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&hide=stars&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&hide=stars&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-rac2&layout=compact&hide=vue,php&&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats&theme=dark#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-rac2&layout=compact&hide=vue,php&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-
 <div style="width: 100%;">
  <div style="display: flex;">
    <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 1 50%;">
-       <img align="top" src="https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&hide=stars&count_private=true&show_icons=true" />
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&hide=stars&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&hide=stars&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
    </a>
    <a href="https://github.com/anuraghazra/convoychat" style="flex: 0 1 50%;">
-       <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-rac2&layout=compact&hide=vue,php" />
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-rac2&layout=compact&hide=vue,php&&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats&theme=dark#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-rac2&layout=compact&hide=vue,php&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
    </a>
  </div>
 </div>
