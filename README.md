@@ -1,12 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigo-rac2" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rodrigo-rac2" />
-</a>
-
-<!-- <div style="width: 100%;">
- <div style="display: flex;">
+<div style="width: 100%;">
+ <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
    <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 1 50%;">
     <picture>
      <source 
@@ -31,9 +24,9 @@
       media="(prefers-color-scheme: light) (prefers-color-scheme: no-preference)"
      />
      <img src="https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&show_icons=true" />
-   </a> -->
+   </a>
  </div>
-</div> -->
+</div> 
 
 <!--
 **rodrigo-rac2/rodrigo-rac2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
