@@ -1,11 +1,9 @@
-<div style="width: 100%; display: table">
- <div style="display: table-row">
-    <div style="width: 600px; display: table-cell;">
+<div style="width: 100%; overflow: hidden;">
+ <div style="display: float: left">
          <img src="/metrics.base.svg" alt="Metrics" width="50%">
-    </div>
-    <div style="display: table-cell;">
+ </div>
+ <div style="margin-left: 620px;">
         <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="50%">
-    </div>
  </div>
 </div>
 
