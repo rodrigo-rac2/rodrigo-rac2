@@ -28,6 +28,9 @@
  </div>
 </div> 
 
+![Metrics](/github-metrics.svg)
+
+
 <!--
 **rodrigo-rac2/rodrigo-rac2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
