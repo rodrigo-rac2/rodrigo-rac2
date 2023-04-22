@@ -1,10 +1,10 @@
 <div style="width: 100%; display: table">
  <div style="display: table-row">
     <div style="width: 600px; display: table-cell;">
-         <img src="/metrics.base.svg" alt="Metrics">
+         <img src="/metrics.base.svg" alt="Metrics" width="50%">
     </div>
     <div style="display: table-cell;">
-        <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
+        <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="50%">
     </div>
  </div>
 </div>
