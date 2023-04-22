@@ -1,11 +1,15 @@
-<div style="width: 100%;">
- <div style="display: grid; grid-template-rows: 1fr 1fr; grid-gap: 20px;">
-  <picture>
-     <img src="/metrics.base.svg" alt="Metrics" width="50%">
-  </picture>
-  <picture>
-     <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="50%">
- </picture>
+<div style="width: 100%; display: table">
+ <div style="display: table-row">
+    <div style="width: 600px; display: table-cell;">
+      <picture>
+         <img src="/metrics.base.svg" alt="Metrics" width="50%">
+      </picture>
+    </div>
+    <div style="display: table-cell;">
+      <picture>
+        <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="50%">
+      </picture>
+    </div>
  </div>
 </div>
 
