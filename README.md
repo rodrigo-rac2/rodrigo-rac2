@@ -1,4 +1,16 @@
-![Metrics](/github-metrics.svg)
+<div style="width: 100%;">
+ <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
+    <picture>
+     <source 
+      srcset="metrics.base.svg"
+     />
+  </picture>
+ </div>
+ <picture>
+  <source srcset="metrics.plugin.isocalendar.fullyear.svg" />
+ </picture>
+ </div>
+ </div>
 
 <div style="width: 100%;">
  <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
