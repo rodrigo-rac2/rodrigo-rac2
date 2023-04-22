@@ -30,6 +30,7 @@
 </div> 
 
 <div style="width: 100%;">
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="40%">
  <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 1 50%;">
     <picture>
@@ -44,7 +45,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&show_icons=true" />
     </picture>
    </a>
-  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="50%">
  </div>
 </div> 
 
