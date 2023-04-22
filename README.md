@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 <div style="width: 100%;">
  <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
    <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 1 50%;">
@@ -27,9 +29,6 @@
    </a>
  </div>
 </div> 
-
-![Metrics](/github-metrics.svg)
-
 
 <!--
 **rodrigo-rac2/rodrigo-rac2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
