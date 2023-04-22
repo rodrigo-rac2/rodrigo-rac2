@@ -31,7 +31,7 @@
 
 <div style="width: 100%;">
  <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
- <img src="/metrics.base.svg" alt="Metrics" width="50%">
+ <img src="/metrics.base.svg" alt="Metrics" width="40%">
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 1 50%;">
     <picture>
      <source 
