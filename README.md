@@ -1,27 +1,18 @@
 <div style="width: 100%; overflow: hidden;">
  <div style="display: float: left">
-         <img src="/metrics.base.svg" alt="Metrics" width="50%">
+         
  </div>
  <div style="margin-left: 620px;">
- <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 1 50%;">
-    <picture>
-     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-rac2&layout=compact&theme=dark#gh-dark-mode-only"
-      media="(prefers-color-scheme: dark)"
-     />
-     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-rac2&layout=compact"
-      media="(prefers-color-scheme: light) (prefers-color-scheme: no-preference)"
-     />
-     <img src="https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&show_icons=true" />
-   </a>
+    
  </div>
 </div>
-        <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="50%">
+<img src="/metrics.base.svg" alt="Metrics" width="50%">
+<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="50%">
 
 <div style="width: 100%;">
  <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
-   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 1 50%;">
+ <img src="/metrics.base.svg" alt="Metrics" width="50%">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 1 50%;">
     <picture>
      <source 
       srcset="https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&hide=stars&count_private=true&range=all_time&show_icons=true&theme=dark"
@@ -33,7 +24,7 @@
      />
       <img src="https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&show_icons=true" />
     </picture>
-   </a>
+   </a> -->
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 1 50%;">
     <picture>
      <source 
