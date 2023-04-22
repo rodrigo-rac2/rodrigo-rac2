@@ -1,5 +1,5 @@
 <div style="width: 100%;">
- <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
+ <div style="display: grid; grid-template-rows: 1fr 1fr; grid-gap: 20px;">
   <picture>
      <img src="/metrics.base.svg" alt="Metrics" width="100%">
   </picture>
