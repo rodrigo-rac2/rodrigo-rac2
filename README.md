@@ -2,8 +2,6 @@
  <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
   <picture>
      <img src="/metrics.base.svg" alt="Metrics">
-  </picture>
- <picture>
      <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
  </picture>
  </div>
