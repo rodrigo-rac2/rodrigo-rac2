@@ -1,4 +1,4 @@
-name: Metrics
+name: Full-year calendar
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -16,6 +16,6 @@ jobs:
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header
-          plugin-isocalendar: yes
-          plugin-isocalendar-duration: full-year
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
