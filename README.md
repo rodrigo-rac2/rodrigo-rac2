@@ -1,16 +1,13 @@
 <div style="width: 100%;">
  <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
-    <picture>
-     <source 
-      srcset="metrics.base.svg"
-     />
+  <picture>
+     <img src="/metrics.base.svg" alt="Metrics">
   </picture>
- </div>
  <picture>
-  <source srcset="metrics.plugin.isocalendar.fullyear.svg" />
+     <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
  </picture>
  </div>
- </div>
+</div>
 
 <div style="width: 100%;">
  <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
