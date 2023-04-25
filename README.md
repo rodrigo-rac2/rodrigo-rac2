@@ -26,7 +26,7 @@
       media="(prefers-color-scheme: dark)"
      />
      <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&hide=stars&count_private=true&show_icons=true&range=all_time"
+      srcset="https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&count_private=true&show_icons=true&range=all_time"
       media="(prefers-color-scheme: light) (prefers-color-scheme: no-preference)"
      />
       <img src="https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&show_icons=true" />
