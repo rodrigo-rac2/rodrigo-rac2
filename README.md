@@ -12,7 +12,7 @@
 
 <div style="width: 100%;">
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
-<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
+<img src="/metrics.plugin.isocalendar.svg" alt="Metrics">
 <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 1 50%;">
 <picture>
 <source srcset="https://github-readme-stats.vercel.app/api?username=rodrigo-rac2&hide=contribs&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
