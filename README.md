@@ -10,7 +10,7 @@
 </div>
 </div> 
 
-<!-- <div style="width: 100%;">
+<div style="width: 100%;">
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 30px;">
 <img src="/metrics.plugin.isocalendar.svg" alt="Metrics">
 <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 1 50%;">
